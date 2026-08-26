@@ -6,4 +6,4 @@ I spend most of my time vibe-coding in VSCodium, tinkering with mods for Minecra
 
 Right now I'm learning to use ComfyUI with Krea2, making my own portfolio website and trying to learn backend with Typescript and NestJS!
 
-<img src="https://stego.kira1q.dev/f/sc43mihq65" width="1000px">
+<img src="https://stego.kira1q.dev/f/asxqg4s4ba" width="1000px">
